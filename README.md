@@ -9,4 +9,6 @@ Arquivo sql para atualização do bando de dados do FREEDOM-ERP da versão 1.2.6
 - Banco de dados (.fdb) em uso e o atualizado.
 
 ### Procedimento
-Deposis de baixar o programa DBComparer execute quando abrir 
+Execute o programa, compare os dois banco de dados e atualize a estrutura do DB usado.
+
+Grupo de discusão do Google: [FREEDOM-ERP](https://groups.google.com/forum/#!forum/freedomerp)

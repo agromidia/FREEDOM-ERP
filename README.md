@@ -12,3 +12,5 @@ Arquivo sql para atualização do bando de dados do FREEDOM-ERP da versão 1.2.6
 Execute o programa, compare os dois banco de dados e atualize a estrutura do DB usado.
 
 Grupo de discusão do Google: [FREEDOM-ERP](https://groups.google.com/forum/#!forum/freedomerp)
+
+Obs.: Caso tenha usuários cadastros, será necessário recadastrar as senhas.
